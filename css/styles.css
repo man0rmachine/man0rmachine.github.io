@@ -54,9 +54,17 @@ main > .tagline {
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
-
+a{
+	text-decoration: none;
+	color: white;
+}
+.thirdline{
+	font-size: 1.5rem;
+	margin: 5 0 0 0;
+	font-weight: 80;
+}
 .icons-social i {
-	padding: 10px;
+	padding: 20px;
 }
 
 .devto {
