@@ -1,5 +1,7 @@
 /* Theme */
-
+body{
+	background-color: #303F9F;
+}
 main {
 	background: #303F9F;
 	color: #FAFAFA;
