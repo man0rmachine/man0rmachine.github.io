@@ -19,3 +19,7 @@ nav{
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+
+.title{
+	padding: 5%;
+}
